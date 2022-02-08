@@ -1,0 +1,16 @@
+C:\Users\Billy\source\repos\StaticExercise\StaticExerciseConsole\bin\Debug\net5.0\StaticExerciseConsole.exe
+C:\Users\Billy\source\repos\StaticExercise\StaticExerciseConsole\bin\Debug\net5.0\StaticExerciseConsole.deps.json
+C:\Users\Billy\source\repos\StaticExercise\StaticExerciseConsole\bin\Debug\net5.0\StaticExerciseConsole.runtimeconfig.json
+C:\Users\Billy\source\repos\StaticExercise\StaticExerciseConsole\bin\Debug\net5.0\StaticExerciseConsole.runtimeconfig.dev.json
+C:\Users\Billy\source\repos\StaticExercise\StaticExerciseConsole\bin\Debug\net5.0\StaticExerciseConsole.dll
+C:\Users\Billy\source\repos\StaticExercise\StaticExerciseConsole\bin\Debug\net5.0\ref\StaticExerciseConsole.dll
+C:\Users\Billy\source\repos\StaticExercise\StaticExerciseConsole\bin\Debug\net5.0\StaticExerciseConsole.pdb
+C:\Users\Billy\source\repos\StaticExercise\StaticExerciseConsole\obj\Debug\net5.0\StaticExerciseConsole.csproj.AssemblyReference.cache
+C:\Users\Billy\source\repos\StaticExercise\StaticExerciseConsole\obj\Debug\net5.0\StaticExerciseConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Billy\source\repos\StaticExercise\StaticExerciseConsole\obj\Debug\net5.0\StaticExerciseConsole.AssemblyInfoInputs.cache
+C:\Users\Billy\source\repos\StaticExercise\StaticExerciseConsole\obj\Debug\net5.0\StaticExerciseConsole.AssemblyInfo.cs
+C:\Users\Billy\source\repos\StaticExercise\StaticExerciseConsole\obj\Debug\net5.0\StaticExerciseConsole.csproj.CoreCompileInputs.cache
+C:\Users\Billy\source\repos\StaticExercise\StaticExerciseConsole\obj\Debug\net5.0\StaticExerciseConsole.dll
+C:\Users\Billy\source\repos\StaticExercise\StaticExerciseConsole\obj\Debug\net5.0\ref\StaticExerciseConsole.dll
+C:\Users\Billy\source\repos\StaticExercise\StaticExerciseConsole\obj\Debug\net5.0\StaticExerciseConsole.pdb
+C:\Users\Billy\source\repos\StaticExercise\StaticExerciseConsole\obj\Debug\net5.0\StaticExerciseConsole.genruntimeconfig.cache
